@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 
 Hey everyone! My name is Tianna and I am most interested in learning more about machine learning and AI.
 But I am also open to learning about areas of programming as well.
